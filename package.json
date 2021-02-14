@@ -14,7 +14,7 @@
     "author": "khoabean@kb2ateam",
     "license": "ISC",
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "eslint": "^7.6.0",
         "facebook-chat-api": "^1.8.0",
         "jquery": "^3.5.1",
